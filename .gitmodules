@@ -1,0 +1,6 @@
+[submodule "clj-pg"]
+	path = clj-pg
+	url = https://github.com/niquola/clj-pg.git
+[submodule "swagger-ui"]
+	path = swagger-ui
+	url = https://github.com/swagger-api/swagger-ui.git
